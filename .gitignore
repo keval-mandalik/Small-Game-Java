@@ -1,0 +1,7 @@
+.idea/
+.settings/
+bin/
+src/.idea/
+.classpath
+.project
+Small Games.iml
